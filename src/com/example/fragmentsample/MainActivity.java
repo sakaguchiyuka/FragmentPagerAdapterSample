@@ -2,6 +2,8 @@ package com.example.fragmentsample;
 
 import java.util.ArrayList;
 
+import com.example.fragmentsample.R;
+
 import android.os.Bundle;
 import android.support.v4.app.FragmentActivity;
 import android.support.v4.app.FragmentManager;

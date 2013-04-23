@@ -1,5 +1,7 @@
 package com.example.fragmentsample;
 
+import com.example.fragmentsample.R;
+
 import android.graphics.Color;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
