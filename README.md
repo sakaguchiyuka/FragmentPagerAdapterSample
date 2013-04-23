@@ -7,4 +7,4 @@ FragmentPagerAdapterSample
 
 ### 注意点
 * ViewPagerは直接setContentViewにセットしない
-* ViewPagerはjavaで生成せず、xmlで生成する。(android.content.res.Resources$NotFoundException: Unable to find resource ID #0xffffffff のエラーが出る)
+* ViewPagerはjavaで生成せず、xmlで生成する。(android.content.res.Resources$NotFoundException: Unable to find resource ID #0xffffffff のエラーが出るため)
